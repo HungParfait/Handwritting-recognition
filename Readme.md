@@ -30,6 +30,7 @@
 ## File gui_digit_recognizer
 - Chức năng: 
     - tạo 1 ứng dụng nhỏ để ứng dụng model này trong thực tế.
+- Load mô hình vừa huấn luyện bằng hàm: load_model()
 - Class App:
     - Chức năng: xây dựng 1 giao diện cho ứng dụng.
     - GUI bao gồm: 

@@ -69,3 +69,7 @@ train_model(LeNet_model, X_train, y_train, X_test, y_test)
 
 LeNet_model.save('handwriting.h5')
 print('Successfully. Saving the model as handwriting.h5')
+
+score = LeNet_model.evaluate(X_test, y_test, verbose=0)
+print('Test loss:', score[0])
+print('Test accuracy:', score[1])
