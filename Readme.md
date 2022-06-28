@@ -9,3 +9,7 @@
 - pillow
 
 ## File train_digit_recognizer
+
+- Hàm preprocess_data:
+    - Chức năng: xử lý dữ liệu
+    - 
