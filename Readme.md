@@ -41,3 +41,6 @@
     - Chức năng: dự đoán số được vẽ trên giao diện là số nào.
     - Input: ảnh chụp số được vẽ trên giao diện
     - Output: số được dự đoán và độ chính xác.
+
+## File handwriting.h5
+- Lưu trữ mô hình đã được huẩn luyện.
